@@ -8,7 +8,7 @@
 
 Năm 2022 là năm bắt đầu các buổi meetup đầu tiên của cộng đồng Laravel Việt Nam, là nơi dành cho tất cả các bạn từ newbie đến có kinh nghiệm Laravel ở Việt Nam.
 
-Ở meetup, ngoài các chủ đề liên quan đến Laravel, còn có các bài thuyết trình, workshops chủ đề khác liên quan đến công nghệ website, thiết kế hệ thống, kinh nghiệm làm việc... được gặp gỡ các developers khác, giao lưu, tìm hiểu về các dự án hấp dẫn cũng như cơ hội việc làm tìm năng.
+Ở meetup, ngoài các chủ đề liên quan đến Laravel, còn có các bài thuyết trình, workshops chủ đề khác liên quan đến công nghệ website, thiết kế hệ thống, kinh nghiệm làm việc... được gặp gỡ các developers khác, giao lưu, tìm hiểu về các dự án hấp dẫn cũng như cơ hội việc làm tiềm năng.
 
 Tham gia vào nhóm ngay, bạn sẽ trở thành một phần của chúng mình, được nhận các thông tin sớm nhất từ nhóm, sự trợ giúp đến từ các thành viên trong group.
 
