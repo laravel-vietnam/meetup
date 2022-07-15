@@ -17,6 +17,7 @@ Tham gia vào nhóm ngay, bạn sẽ trở thành một phần của chúng mìn
 ### 2022
 
 - [Laravel Meetup 07/2022 (Hà Nội)](2022/07/03-07-2022-HN.md)
+- [Laravel Meetup 08/2022 (Hồ Chí Minh)](2022/08/07-08-2022-HCM.md)
 
 ## Liên Kết
 
