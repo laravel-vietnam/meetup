@@ -20,6 +20,10 @@ Tham gia vào nhóm ngay, bạn sẽ trở thành một phần của chúng mìn
 - [Laravel Meetup 08/2022 (Hồ Chí Minh)](2022/08/07-08-2022-HCM.md)
 - [Laravel Live Vietnam 12/2022 (Hà Nội)](2022/12/04-12-2022-HN.md)
 
+## 2023
+
+- [Laravel Live Vietnam 10/2023 (Hà Nội)](2023/10/15-10-2023-HN.md)
+
 ## Liên Kết
 
 - [FB Group](https://www.facebook.com/groups/vietnam.laravel)
