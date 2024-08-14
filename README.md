@@ -24,6 +24,10 @@ Tham gia vào nhóm ngay, bạn sẽ trở thành một phần của chúng mìn
 
 - [Laravel Live Vietnam 10/2023 (Hà Nội)](2023/10/15-10-2023-HN.md)
 
+## 2024
+
+- [Laravel Live Vietnam 08/2024 (Hồ Chí Minh)](2024/08/17-08-2024-HCM.md)
+
 ## Liên Kết
 
 - [FB Group](https://www.facebook.com/groups/vietnam.laravel)
