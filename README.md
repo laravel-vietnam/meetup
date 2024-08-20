@@ -1,6 +1,6 @@
 # Laravel Vietnam Meetup Wiki
 
-![Laravel Vietnam Meetup](images/banner.jpg)
+![Laravel Vietnam Meetup](2024/08/images/001.jpg)
 
 Đây là project để lưu trữ, thông báo các buổi meetup của cộng đồng Laravel Việt Nam.
 
